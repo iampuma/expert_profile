@@ -1,0 +1,5 @@
+name = Expert 
+description = Start with popular themes and contrib modules enabled.
+version = 1.0 
+core = 7.x
+dependencies[] = expert_profile_feature 
